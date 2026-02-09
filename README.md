@@ -1,7 +1,5 @@
 # Trivance
 
-## Revised 7 files of AstraSim in total:
-
 ### Revised these 5 files just to hook up Trivance:
 
 astra-sim/system/Sys.cc
@@ -19,3 +17,5 @@ astra-sim/system/astraccl/native_collectives/logical_topology/GeneralComplexTopo
 astra-sim/system/astraccl/native_collectives/collective_algorithm/Trivance.cc
 
 astra-sim/system/astraccl/native_collectives/collective_algorithm/Trivance.hh
+
+astra-sim/network_fronted/ns3/AstraSimNetwork.cc
