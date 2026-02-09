@@ -12,7 +12,7 @@ astra-sim/system/astraccl/CollectiveImpILookup.cc
 
 astra-sim/system/astraccl/native_collectives/logical_topology/GeneralComplexTopology.cc
 
-### And 2 core files:
+### And 3 core files:
 
 astra-sim/system/astraccl/native_collectives/collective_algorithm/Trivance.cc
 
